@@ -1,3 +1,13 @@
+---
+title: "EXO를 해석하라, 세계관이 만든 밀리언셀러"
+category: K-POP
+keywords_pool:
+  - 세계관
+  - 팬 참여
+  - IP 확장
+  - 감정 설계
+  - 장기 서사
+---
 # EXO를 해석하라, 세계관이 만든 밀리언셀러
 
 **[EXO 사례로 본](https://www.newsis.com/view/NISX20220402_0001818005) 팬덤 비즈니스에서 세계관 활용 전략**
@@ -16,7 +26,7 @@ EXO는 데뷔 당시부터 철저히 기획된 세계관을 중심으로, 팬을
 
 - 데뷔 전, 멤버별로 **총 23편의 티저 영상**을 순차 공개하며 서사를 단계적으로 펼쳤습니다.
     
-    ![SM 엔터테인먼트 제공](EXO%EB%A5%BC%20%ED%95%B4%EC%84%9D%ED%95%98%EB%9D%BC,%20%EC%84%B8%EA%B3%84%EA%B4%80%EC%9D%B4%20%EB%A7%8C%EB%93%A0%20%EB%B0%80%EB%A6%AC%EC%96%B8%EC%85%80%EB%9F%AC/image.png)
+    ![SM 엔터테인먼트 제공](EXO%EB%A5%BC%20%ED%95%B4%EC%84%9D%ED%95%98%EB%9D%BC,%20%EC%84%B8%EA%B3%84%EA%B4%80%EC%9D%B4%20%EB%A7%8C%EB%93%A0%20%EB%B0%80%EB%A6%AC%EC%96%B8%EC%85%80%EB%9F%AC/img-01.png)
     
     SM 엔터테인먼트 제공
     
@@ -95,7 +105,7 @@ EXO는 데뷔 당시부터 철저히 기획된 세계관을 중심으로, 팬을
     
 - 팬은 조각 콘텐츠로 전체 세계관을 스스로 해석하게 되며, 브랜드 몰입이 심화되었습니다.
     
-    ![image.png](EXO%EB%A5%BC%20%ED%95%B4%EC%84%9D%ED%95%98%EB%9D%BC,%20%EC%84%B8%EA%B3%84%EA%B4%80%EC%9D%B4%20%EB%A7%8C%EB%93%A0%20%EB%B0%80%EB%A6%AC%EC%96%B8%EC%85%80%EB%9F%AC/image%201.png)
+    ![image.png](EXO%EB%A5%BC%20%ED%95%B4%EC%84%9D%ED%95%98%EB%9D%BC,%20%EC%84%B8%EA%B3%84%EA%B4%80%EC%9D%B4%20%EB%A7%8C%EB%93%A0%20%EB%B0%80%EB%A6%AC%EC%96%B8%EC%85%80%EB%9F%AC/img-02.png)
     
 
 ### 📌 **성과**

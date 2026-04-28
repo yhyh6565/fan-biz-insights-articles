@@ -1,3 +1,11 @@
+---
+title: "경험의 멸종 시대, K-POP은 어떻게 '진짜 경험'을 팔고 있는가?"
+category: K-POP
+keywords_pool:
+  - 오프라인 경험
+  - 감정 설계
+  - 팬 참여
+---
 # 경험의 멸종 시대, K-POP은 어떻게 '진짜 경험'을 팔고 있는가?
 
 ### 🤔 우리는 ‘경험’을 잃어가고 있다
@@ -28,11 +36,11 @@ NCT WISH는 독창적인 1:1 맞춤형 온라인 프로모션을 통해 팬덤�
 
 2025년 4월, 미니앨범 2집 《poppop》 컴백 전 SM은 'chat poppop'이라는 웹채팅 시뮬레이션 사이트를 오픈했습니다.
 
-![출처: NCT WISH 공식 ‘X’ 게시물](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/IMG_5357.jpg)
+![출처: NCT WISH 공식 ‘X’ 게시물](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/img-01.jpg)
 
 출처: NCT WISH 공식 ‘X’ 게시물
 
-![출처: ‘X’ 게시물](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/f4eed9c9-a701-4e07-ac90-1792c2997501.png)
+![출처: ‘X’ 게시물](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/img-02.png)
 
 출처: ‘X’ 게시물
 
@@ -89,13 +97,13 @@ NCT WISH는 독창적인 1:1 맞춤형 온라인 프로모션을 통해 팬덤�
 
 - 팬들이 게임 결과와 팁을 SNS에 공유하며 자발적 커뮤니티 형성했고
     
-    ![출처: ‘X’ 게시물, 팬덤 내 자발적인 게임팁 공유](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/616386a5-3503-4d8d-9e44-44cbd59f6b0d.png)
+    ![출처: ‘X’ 게시물, 팬덤 내 자발적인 게임팁 공유](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/img-03.png)
     
     출처: ‘X’ 게시물, 팬덤 내 자발적인 게임팁 공유
     
 - "귀엽고 신선하다", “퀄리티가 좋다”는 긍정적인 평가를 받으며
     
-    ![출처: ‘X’ 게시물, 앨범에 대한 긍정적인 기대 증폭](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/275fedaf-4f50-48e7-9d72-8b891b683ed1.png)
+    ![출처: ‘X’ 게시물, 앨범에 대한 긍정적인 기대 증폭](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/img-04.png)
     
     출처: ‘X’ 게시물, 앨범에 대한 긍정적인 기대 증폭
     
@@ -144,7 +152,7 @@ NCT WISH는 독창적인 1:1 맞춤형 온라인 프로모션을 통해 팬덤�
 
 2025년 7월, NCT WISH는 첫 단독 콘서트 “NCT WISH 1st CONCERT TOUR ‘INTO THE WISH : Our WISH’” 일정을 공개했습니다. 미니앨범 2집 《poppop》, 미니앨범 3집 《COLOR》 프로모션을 통해 해당 콘서트에 대한 기대감은 그 어느 때보다 강렬해졌습니다.
 
-![출처: SM Entertainment](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/IMG_5387.jpg)
+![출처: SM Entertainment](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/img-05.jpg)
 
 출처: SM Entertainment
 
@@ -180,7 +188,7 @@ NCT WISH는 독창적인 1:1 맞춤형 온라인 프로모션을 통해 팬덤�
 - 중국 5개 도시(상하이, 창사, 베이징, 선전, 칭다오) 동시 팝업 운영
 - 엔시티 위시 콘서트 티켓팅 참여 인원: **14만 명** (추정)
     
-    ![출처: ‘X’ 게시물, 콘서트 수요 확대](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/2043048e-e78d-4afa-91f2-fdc16385fc1e.png)
+    ![출처: ‘X’ 게시물, 콘서트 수요 확대](%EA%B2%BD%ED%97%98%EC%9D%98%20%EB%A9%B8%EC%A2%85%20%EC%8B%9C%EB%8C%80,%20K-POP%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20'%EC%A7%84%EC%A7%9C%20%EA%B2%BD%ED%97%98'%EC%9D%84%20%ED%8C%94%EA%B3%A0%20%EC%9E%88%EB%8A%94%EA%B0%80/img-06.png)
     
     출처: ‘X’ 게시물, 콘서트 수요 확대
     

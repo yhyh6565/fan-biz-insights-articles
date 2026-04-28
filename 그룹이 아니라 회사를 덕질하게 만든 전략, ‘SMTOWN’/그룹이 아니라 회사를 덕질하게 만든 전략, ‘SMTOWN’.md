@@ -1,3 +1,11 @@
+---
+title: "그룹이 아니라 회사를 덕질하게 만든 전략, ‘SMTOWN’"
+category: K-POP
+keywords_pool:
+  - 연대
+  - 일관성
+  - IP 확장
+---
 # 그룹이 아니라 회사를 덕질하게 만든 전략, ‘SMTOWN’
 
 "SMTown"라는 말이 있을 정도로, SM엔터테인먼트의 아티스트들은 그룹과 세대를 뛰어넘어 특별한 연대 문화를 형성하고 있습니다. SM은 어떻게 'SMTown'이라는 레이블 브랜드를 구축했고, 이를 통해 그룹 간의 연대와 팬덤의 교류를 극대화했을까요? 이번 글에서는 SM의 구체적인 연대 전략과 그 대표적인 성공 사례를 살펴보겠습니다.
@@ -21,7 +29,7 @@
     - 대표 사례: 2005년 동방신기와 슈퍼주니어의 합동곡 〈Show Me Your Love〉
     - 최근 〈2021 Winter SMTOWN : SMCU EXPRESS〉 앨범은 발매 8일 만에 41만 장 판매, 가온차트 1위 기록해 SMTown의 브랜드파워를 확인할 수 있습니다.
         
-        ![SM 제공. 〈2021 Winter SMTOWN : SMCU EXPRESS〉 디지털 커버](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/image.png)
+        ![SM 제공. 〈2021 Winter SMTOWN : SMCU EXPRESS〉 디지털 커버](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/img-01.png)
         
         SM 제공. 〈2021 Winter SMTOWN : SMCU EXPRESS〉 디지털 커버
         
@@ -31,7 +39,7 @@
 - 인기 멤버들을 재조합하여 새로운 유닛을 구성하고, 팬덤 간 시너지를 창출했습니다.
     - SuperM: 샤이니, 엑소, NCT 멤버들로 구성된 정규 그룹, 데뷔 앨범을 16.8만 유닛 판매하며 미국 빌보드 200 1위를 달성했습니다.
         
-        ![Variety 제공. 그룹 ‘SuperM’](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/image%201.png)
+        ![Variety 제공. 그룹 ‘SuperM’](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/img-02.png)
         
         Variety 제공. 그룹 ‘SuperM’
         
@@ -44,7 +52,7 @@
 - 다양한 그룹의 팬들이 한 공간에서 함께 공연을 즐기며 레이블 전체에 대한 소속감을 강화했습니다.
     - 2012년 SMTOWN LIVE WORLD TOUR III는 약 55만 명 관객, 약 1,000억 원의 수익을 달성했습니다.
         
-        ![SM 제공. <SMTOWN LIVE WORLD TOUR III>](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/image%202.png)
+        ![SM 제공. <SMTOWN LIVE WORLD TOUR III>](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/img-03.png)
         
         SM 제공. <SMTOWN LIVE WORLD TOUR III>
         
@@ -64,7 +72,7 @@
 
 ## 🎤 대표 사례: SMTOWN 30주년 콘서트 (2025)
 
-![SM 제공. <SMTOWN LIVE 2025>](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/image%203.png)
+![SM 제공. <SMTOWN LIVE 2025>](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/img-04.png)
 
 SM 제공. <SMTOWN LIVE 2025>
 
@@ -81,13 +89,13 @@ SM 제공. <SMTOWN LIVE 2025>
 - 이를 리메이크 앨범 《2025 SMTOWN: THE CULTURE, THE FUTURE》으로 발매했습니다.
 - 그 중 ‘타임캡슐’ 버전은 캡슐 뽑기 게임을 떠오르게 하는 케이스 안에 포토카드, 포스터, 풍선, 스마트 앨범(SMini)이 랜덤으로 담겨 있어 팬들에게 재미를 선사했습니다.
     
-    ![SM 제공. 《2025 SMTOWN: THE CULTURE, THE FUTURE》 타임캡슐 버전](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/LXZrl9.jpg)
+    ![SM 제공. 《2025 SMTOWN: THE CULTURE, THE FUTURE》 타임캡슐 버전](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/img-05.jpg)
     
     SM 제공. 《2025 SMTOWN: THE CULTURE, THE FUTURE》 타임캡슐 버전
     
 - 2000년대 아이리버 MP3 감성을 재현한 SMTOWN LIVE 2025 콘서트 MP3 플레이어 MD는 출시 직후 뜨거운 관심을 받았습니다.
     
-    ![SM 제공. 30주년 콘서트 MD인 MP3 플레이어](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/0407ceed-d4e8-4e19-8b8e-5a52fd3a9948.png)
+    ![SM 제공. 30주년 콘서트 MD인 MP3 플레이어](%EA%B7%B8%EB%A3%B9%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%ED%9A%8C%EC%82%AC%EB%A5%BC%20%EB%8D%95%EC%A7%88%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A0%84%EB%9E%B5,%20%E2%80%98SMTOWN%E2%80%99/img-06.png)
     
     SM 제공. 30주년 콘서트 MD인 MP3 플레이어
     

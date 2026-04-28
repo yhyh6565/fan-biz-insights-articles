@@ -1,3 +1,12 @@
+---
+title: "Saga로 엮은 마블, Chronicle로 남긴 DC"
+category: 마블/MCU
+keywords_pool:
+  - 장기 서사
+  - 세계관
+  - 수익 타이밍
+  - IP 확장
+---
 # Saga로 엮은 마블, Chronicle로 남긴 DC
 
 마블 영화는 꼭 처음부터 정주행해야 할 것 같고,
@@ -56,7 +65,7 @@ DC 영화는 한 편만 봐도 괜찮은 느낌이 들죠.
 
 이런 구조 덕분에 팬들은 단지 캐릭터에 몰입하는 것이 아니라, **사건과 사건의 연결고리를 따라가며 전체 ‘사가(Saga)’를 체험**하게 됩니다.
 
-![Marvel 제공. MCU 중 The Infinity SAGA](Saga%EB%A1%9C%20%EC%97%AE%EC%9D%80%20%EB%A7%88%EB%B8%94,%20Chronicle%EB%A1%9C%20%EB%82%A8%EA%B8%B4%20DC/Marvel_Cinematic_Universe_Infinity_Saga_artwork.jpeg)
+![Marvel 제공. MCU 중 The Infinity SAGA](Saga%EB%A1%9C%20%EC%97%AE%EC%9D%80%20%EB%A7%88%EB%B8%94,%20Chronicle%EB%A1%9C%20%EB%82%A8%EA%B8%B4%20DC/img-01.jpeg)
 
 Marvel 제공. MCU 중 The Infinity SAGA
 
@@ -140,7 +149,7 @@ Marvel 제공. MCU 중 The Infinity SAGA
 - 챕터 기반 메인 유니버스와
 - Elseworlds 기반 독립 영화들을 병행 운영하고 있습니다.
 
-![Reddit 제공. DCU의 향후 투트랙 전략](Saga%EB%A1%9C%20%EC%97%AE%EC%9D%80%20%EB%A7%88%EB%B8%94,%20Chronicle%EB%A1%9C%20%EB%82%A8%EA%B8%B4%20DC/possible-dcu-chapter-one-gods-monsters-slate-v0-b3opc4umv1gc1.webp)
+![Reddit 제공. DCU의 향후 투트랙 전략](Saga%EB%A1%9C%20%EC%97%AE%EC%9D%80%20%EB%A7%88%EB%B8%94,%20Chronicle%EB%A1%9C%20%EB%82%A8%EA%B8%B4%20DC/img-02.webp)
 
 Reddit 제공. DCU의 향후 투트랙 전략
 

@@ -1,3 +1,11 @@
+---
+title: "연간 수백만이 찾은 도심 속 K-POP 테마파크, SMTOWN 아티움"
+category: K-POP
+keywords_pool:
+  - 오프라인 경험
+  - 일관성
+  - IP 확장
+---
 # 연간 수백만이 찾은 도심 속 K-POP 테마파크, SMTOWN 아티움
 
 K-POP 팬덤 비즈니스의 핵심은 ‘몰입’입니다.
@@ -26,7 +34,7 @@ SM은 이 점에 주목해, **팬이 아티스트의 세계관을 직접 ‘경�
 
 **SMTOWN@코엑스아티움은 지하 1층~지상 6층으로 구성된 복합문화공간**으로, **팬의 체류 시간과 몰입도를 높이기 위한 동선 중심의 구조**로 설계되었습니다.
 
-![SM 제공. SMTOWN@코엑스아티움 입구](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/image.png)
+![SM 제공. SMTOWN@코엑스아티움 입구](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/img-01.png)
 
 SM 제공. SMTOWN@코엑스아티움 입구
 
@@ -47,7 +55,7 @@ SM 제공. SMTOWN@코엑스아티움 입구
 
 ### 3층 SMTOWN STUDIO – 팬을 아티스트로 ‘변환’시키다
 
-![SM 제공. SMTOWN Studio](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/image%201.png)
+![SM 제공. SMTOWN Studio](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/img-02.png)
 
 SM 제공. SMTOWN Studio
 
@@ -66,7 +74,7 @@ SM 제공. SMTOWN Studio
 
 ### 5~6층 SMTOWN THEATRE – 공연장 이상의 몰입 공간
 
-![Klook 제공. SMTOWN Theatre](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/SMTOWNTHEATREAdmissionTicketSeoulKorea-KlookUnitedStates.jpg)
+![Klook 제공. SMTOWN Theatre](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/img-03.jpg)
 
 Klook 제공. SMTOWN Theatre
 
@@ -98,7 +106,7 @@ SM은 단순한 '매장'이 아닌, 아래와 같은 전략으로 **팬덤 몰�
     
 - 특히 4층 카페에서는 **팬들이 앉는 자리 바로 옆에 실제 무대의상이 전시**되거나, **멤버가 사용한 컵이나 메시지가 놓여 있는 형태**로 동선이 설계되어 있었습니다.
     
-    ![Tripadvisor 제공. ](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/museum-of-snsd.jpg)
+    ![Tripadvisor 제공. ](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/img-04.jpg)
     
     Tripadvisor 제공. 
     
@@ -136,7 +144,7 @@ SM은 단순한 '매장'이 아닌, 아래와 같은 전략으로 **팬덤 몰�
 
 - **KBS, 연합뉴스, 한국경제 등 주요 언론 대서특필**되었습니다. 강남구청 등 지자체와 협력하여 한류 랜드마크로 자리잡았습니다.
     
-    ![강남구청 제공. 코엑스와 함께 대표 관광지로 소개된 SMTOWN 아티움](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/681bd9c5-136a-4c78-85a4-1bc80808efd9.jpg)
+    ![강남구청 제공. 코엑스와 함께 대표 관광지로 소개된 SMTOWN 아티움](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/img-05.jpg)
     
     강남구청 제공. 코엑스와 함께 대표 관광지로 소개된 SMTOWN 아티움
     
@@ -147,7 +155,7 @@ SM은 단순한 '매장'이 아닌, 아래와 같은 전략으로 **팬덤 몰�
 - **설비, 임대료, 인건비 등 고비용 구조**로 인해 지속적인 손실이 발생했습니다. 업계 추산으로는 **연간 수십억 원 적자 누적이 발생한 것으로 예상**됩니다.
 - 결국 SM은 2020년 임대 계약 만료 시, “6년간의 운영 종료, 새로운 모습으로 찾아오겠다”며 **영업 종료를 결정**하였습니다.
     
-    ![SM 제공. SMTOWN 코엑스 아티움 영업 종료 안내. ](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/308288_309294_599.jpg)
+    ![SM 제공. SMTOWN 코엑스 아티움 영업 종료 안내. ](%EC%97%B0%EA%B0%84%20%EC%88%98%EB%B0%B1%EB%A7%8C%EC%9D%B4%20%EC%B0%BE%EC%9D%80%20%EB%8F%84%EC%8B%AC%20%EC%86%8D%20K-POP%20%ED%85%8C%EB%A7%88%ED%8C%8C%ED%81%AC,%20SMTOWN%20%EC%95%84%ED%8B%B0%EC%9B%80/img-06.jpg)
     
     SM 제공. SMTOWN 코엑스 아티움 영업 종료 안내. 
     

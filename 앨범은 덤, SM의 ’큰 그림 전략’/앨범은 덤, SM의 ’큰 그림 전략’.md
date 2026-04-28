@@ -1,3 +1,12 @@
+---
+title: "앨범은 덤, SM의 '큰 그림 전략’"
+category: K-POP
+keywords_pool:
+  - 일관성
+  - 세계관
+  - IP 확장
+  - 감정 설계
+---
 # 앨범은 덤, SM의 '큰 그림 전략’
 
 🎨 **왜 SM은 ‘큰 그림’을 먼저 그리고, 앨범은 그 위에 덧칠하는가 – 팬덤 비즈니스에서 비주얼 디렉팅 전략의 힘**
@@ -63,7 +72,7 @@ SM의 비주얼 디렉팅 팀은 **2000년대 중반 국내 엔터사 최초로 
     
     ![f(x)-4_Walls.jpg](%EC%95%A8%EB%B2%94%EC%9D%80%20%EB%8D%A4,%20SM%EC%9D%98%20'%ED%81%B0%20%EA%B7%B8%EB%A6%BC%20%EC%A0%84%EB%9E%B5%E2%80%99/f(x)-4_Walls.jpg)
     
-    ![d9gym8q-18b2d293-c1c8-467a-a9de-28b35be6c435.jpg](%EC%95%A8%EB%B2%94%EC%9D%80%20%EB%8D%A4,%20SM%EC%9D%98%20'%ED%81%B0%20%EA%B7%B8%EB%A6%BC%20%EC%A0%84%EB%9E%B5%E2%80%99/d9gym8q-18b2d293-c1c8-467a-a9de-28b35be6c435.jpg)
+    ![d9gym8q-18b2d293-c1c8-467a-a9de-28b35be6c435.jpg](%EC%95%A8%EB%B2%94%EC%9D%80%20%EB%8D%A4,%20SM%EC%9D%98%20'%ED%81%B0%20%EA%B7%B8%EB%A6%BC%20%EC%A0%84%EB%9E%B5%E2%80%99/img-01.jpg)
     
 
 ✅  평론가와 음악 산업 양쪽에서의 ‘예술성 + 브랜드 가치’ 동시 입증
@@ -88,14 +97,14 @@ SM의 비주얼 디렉팅 팀은 **2000년대 중반 국내 엔터사 최초로 
 - 육각형 기반의 심플한 로고로, 엑소의 세계관(외계 행성에서 온 초능력자들)을 상징합니다.
 - 육각형은 그룹의 유닛 구조(EXO-K와 EXO-M)와 멤버 수를 시각적으로 표현했습니다.
     
-    ![d8wvxie-9982dcc7-a2ce-4037-9b8a-0b402ab58fe5.jpg](%EC%95%A8%EB%B2%94%EC%9D%80%20%EB%8D%A4,%20SM%EC%9D%98%20'%ED%81%B0%20%EA%B7%B8%EB%A6%BC%20%EC%A0%84%EB%9E%B5%E2%80%99/d8wvxie-9982dcc7-a2ce-4037-9b8a-0b402ab58fe5.jpg)
+    ![d8wvxie-9982dcc7-a2ce-4037-9b8a-0b402ab58fe5.jpg](%EC%95%A8%EB%B2%94%EC%9D%80%20%EB%8D%A4,%20SM%EC%9D%98%20'%ED%81%B0%20%EA%B7%B8%EB%A6%BC%20%EC%A0%84%EB%9E%B5%E2%80%99/img-02.jpg)
     
 
 🧪 **《중독 (Overdose)》 (2014)**
 
 - ‘헤어나올 수 없는 치명적인 사랑’을 주제로, **미로 형태의 로고**를 사용했습니다. 복잡한 라인과 반복된 형태로 중독성과 혼란스러움을 시각적으로 상징했습니다.
 
-![SFSy47Rc5tQiS-aKtzmjxw0KelP4N-vroZW5tyxrhN9oZ8ZY10oqwFzt1oRgsWeU76YSOfZu3dbCI6OnXQsuURuToVlGsnKSPkI5UNZxe4VLEKiqgLfZ6Q6sbM6vaF4xUT8rjS8hGI1JYHhqu9W3QQ.png](%EC%95%A8%EB%B2%94%EC%9D%80%20%EB%8D%A4,%20SM%EC%9D%98%20'%ED%81%B0%20%EA%B7%B8%EB%A6%BC%20%EC%A0%84%EB%9E%B5%E2%80%99/SFSy47Rc5tQiS-aKtzmjxw0KelP4N-vroZW5tyxrhN9oZ8ZY10oqwFzt1oRgsWeU76YSOfZu3dbCI6OnXQsuURuToVlGsnKSPkI5UNZxe4VLEKiqgLfZ6Q6sbM6vaF4xUT8rjS8hGI1JYHhqu9W3QQ.png)
+![SFSy47Rc5tQiS-aKtzmjxw0KelP4N-vroZW5tyxrhN9oZ8ZY10oqwFzt1oRgsWeU76YSOfZu3dbCI6OnXQsuURuToVlGsnKSPkI5UNZxe4VLEKiqgLfZ6Q6sbM6vaF4xUT8rjS8hGI1JYHhqu9W3QQ.png](%EC%95%A8%EB%B2%94%EC%9D%80%20%EB%8D%A4,%20SM%EC%9D%98%20'%ED%81%B0%20%EA%B7%B8%EB%A6%BC%20%EC%A0%84%EB%9E%B5%E2%80%99/img-03.png)
 
 🔈 **《Monser》 & 《Lucky One》 (2016)**
 
