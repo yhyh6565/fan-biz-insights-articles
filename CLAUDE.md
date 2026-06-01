@@ -20,3 +20,7 @@ Content only — Korean-language markdown articles with frontmatter. No code. Us
 
 ## Known issues / Do not repeat
 - Scripts folder was removed from git tracking — do not re-add scripts here
+
+## Linear
+Project: **fan-biz-insights-articles** (ID: `e62d3812-abe1-44c0-8b2e-6ab50537c5c9`)
+When creating any ticket for this repo, always pass `project: "fan-biz-insights-articles"`.
