@@ -1,5 +1,6 @@
 ---
 title: "EXO를 해석하라, 세계관이 만든 밀리언셀러"
+principle: 의미
 category: K-POP
 keywords_pool:
   - 세계관

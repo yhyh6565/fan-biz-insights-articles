@@ -1,5 +1,6 @@
 ---
 title: "정서적 몰입 vs 분석적 해석, 팬은 어디에 머무는가?"
+principle: 의미
 category:
   - 마블/MCU
   - K-POP

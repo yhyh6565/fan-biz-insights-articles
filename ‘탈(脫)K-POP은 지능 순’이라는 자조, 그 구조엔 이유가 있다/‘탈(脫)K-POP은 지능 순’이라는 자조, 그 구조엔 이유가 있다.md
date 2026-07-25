@@ -1,5 +1,6 @@
 ---
 title: "‘탈(脫)K-POP은 지능 순’이라는 자조, 그 구조엔 이유가 있다"
+principle: 그림자
 category: K-POP
 keywords_pool:
   - 희소성

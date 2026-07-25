@@ -1,5 +1,6 @@
 ---
 title: "경험의 멸종 시대, K-POP은 어떻게 '진짜 경험'을 팔고 있는가?"
+principle: 물성화
 category: K-POP
 keywords_pool:
   - 오프라인 경험

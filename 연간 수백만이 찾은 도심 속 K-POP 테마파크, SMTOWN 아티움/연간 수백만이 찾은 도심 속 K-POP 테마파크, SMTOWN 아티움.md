@@ -1,5 +1,6 @@
 ---
 title: "연간 수백만이 찾은 도심 속 K-POP 테마파크, SMTOWN 아티움"
+principle: 물성화
 category: K-POP
 keywords_pool:
   - 오프라인 경험

@@ -1,5 +1,6 @@
 ---
 title: "Saga로 엮은 마블, Chronicle로 남긴 DC"
+principle: 의미
 category: 마블/MCU
 keywords_pool:
   - 장기 서사

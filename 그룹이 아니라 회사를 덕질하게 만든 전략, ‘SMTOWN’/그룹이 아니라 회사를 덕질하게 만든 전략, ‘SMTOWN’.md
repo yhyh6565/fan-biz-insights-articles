@@ -1,5 +1,6 @@
 ---
 title: "그룹이 아니라 회사를 덕질하게 만든 전략, ‘SMTOWN’"
+principle: 소속감
 category: K-POP
 keywords_pool:
   - 연대

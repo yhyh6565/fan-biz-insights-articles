@@ -1,5 +1,6 @@
 ---
 title: "앨범은 덤, SM의 '큰 그림 전략’"
+principle: 의미
 category: K-POP
 keywords_pool:
   - 일관성

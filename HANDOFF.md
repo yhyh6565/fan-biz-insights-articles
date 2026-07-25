@@ -1,14 +1,32 @@
 # fan-biz-insights-articles — HANDOFF
-Last session: 2026-04-28 | Status: dormant | Linear: —
+Last session: 2026-07-25 | Status: active | Linear: YEO-893 (리네이밍) 외 6축 시리즈
 
 ## Where we left off
-Added frontmatter and standardized image names across articles, updated keywords and categories. Prior commits removed scripts folder from git tracking and made the initial commit with all articles.
+컬렉션 정체성 리네이밍 + 원리 지도 아키텍처를 확립했다.
+- **"덕질로 배운 비즈니스" → "덕질로 배운 끌림의 원리"** 방향 확정 (돈은 끌림의 하위 결과, 목적은 현상 이해).
+- **27편 전체에 `principle:` 프론트매터 additive 재태깅** 완료 (기존 category/keywords 그대로). 분포: 의미7·소속감7·희소성4·물성화4·참여2·신뢰1·그림자1·수익화1.
+- **이론 척추** = vault `concepts/attraction-two-axes.md` (A/B층 + 공명·공백 대칭 + 이중축[창작 권한 × 탐색/발굴] + 두 축이 꼭대기에서 만남 + porous/sealed).
+- **6개 원리 시리즈 티켓 확립** (모든 글에 홈):
+  - 공명 YEO-896 (청량 3부작 + 학교 3부작 4팀 912)
+  - 공백 YEO-899 (마블·연산호·오프라인·괴출·허브 + EXO 프로모션 913)
+  - 참여 YEO-900 (총론·프듀·해석·인터랙티브·2차창작)
+  - 희소성/독점 YEO-914 (콘서트·소통독점 신규 + 희소성 4편 리뉴얼)
+  - 소속감 YEO-921 (부모만, 7편)
+  - 물성화 YEO-922 (부모만, 4편)
 
 ## What's next
-- [ ] Resume when reactivated — add new articles or refine existing ones
+**실제 글쓰기 착수 — 첫 편 고르기.** 아키텍처는 완성됨. 추천 순위:
+1. 축을 정의하는 **총론** 먼저 (탐색 허브 YEO-906 or 참여 사다리 총론 YEO-907) — 뒤 글들의 틀이 됨
+2. 또는 새 프레임의 플래그십 **청량 3부작(YEO-896)** 첫 편
 
 ## Open decisions
-- —
+- **의미/세계관·신뢰(SM깔)·수익화(넷플릭스vs마블) 축 = 보류(최저 우선순위).** 나중에 의미/세계관 축 열 때 함께 처리. 그때까지 이 7편은 시리즈 미배정.
+- blog-plan.md는 이중축 반영해 **나중에 새로 작성** (지금 안 건드림).
+- 소속감/물성화 = 부모 시리즈만 있음. 착수 시 개별 글 서브로 분할.
 
 ## Context for Claude
-Content-only repository — a collection of Korean-language articles about fan business, K-pop economics, and fandom strategy. Used as a submodule in fan-biz-insights-new. No code, just markdown article files with frontmatter. Topics span SMTOWN, Marvel, NCT, album economics, fandom engagement.
+- 재태깅은 **additive** — `principle:` 필드만 추가, 웹/그래프 소비 측 깨질 위험 0. 기존 `category`(IP)는 근거·사례로 강등된 것(삭제 X).
+- 콘텐츠 전용 레포 → 문서/콘텐츠 변경은 main 직접 커밋(브랜치 불필요).
+- 아티움이 두 글: "팝업"(희소성 914) vs "테마파크"(물성화 922) — 헷갈리지 말 것.
+- 그림자·수익화는 원리가 아니라 **가로지르는 레이어**. 콘서트·소통 독점 글은 그림자(pay-to-be-close) 긴장을 품어야 함.
+- Content-only repo, fan-biz-insights-new의 submodule. 마크다운 + 프론트매터, 코드 없음.
