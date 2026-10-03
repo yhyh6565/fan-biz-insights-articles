@@ -43,11 +43,11 @@ Last session: 2026-08-05 (3세션) | Status: active | Linear: 끌림의 원리 �
 **`~/Desktop/덕배비 글 초안/00_검증보고서 — 원글 수치·주장 교정표.md`** — 원글 수치를 🔴틀림 / 🟡성격 다름 / ⚪근거 없음 / 🟢확인으로 등급화한 표입니다. **원글 수치를 인용하기 전에 반드시 확인.**
 
 그리고 **vault를 먼저 읽으세요.** 이번 세션에 이걸 안 해서 시간을 버렸습니다:
-- 원글 27편이 `~/vault/raw/fandom_business_articles/`에 있습니다
+- 원글 27편이 `~/vault/25 Content/originals/articles/fandom-business/`에 있습니다
 - 그걸 컴파일한 concept 5개: `kpop-merch-economics` · `sm-brand-system` · `fandom-scarcity-exclusivity` · `fandom-worldbuilding-ip` · `serialized-ip-economics`
 - ⚠️ **다만 이 페이지들은 원글 오류를 물려받았습니다.** 이번에 경고 배너 + 🔴 교정 37곳을 넣었으니 배너를 먼저 볼 것
-- 이론 척추: `~/vault/concepts/attraction-two-axes.md`
-- 이번 검증 사건의 교훈: `~/vault/entities/projects/fan-biz-insights-articles/fact-verification.md`
+- 이론 척추: `~/vault/30 Encyclopedia/콘텐츠·팬덤·IP/attraction-two-axes.md`
+- 이번 검증 사건의 교훈: `~/vault/25 Content/channels/fan-biz-insights-articles/fact-verification.md`
 
 ### 작업 규율 (이번 세션에 다시 밟은 것들)
 - **원글 수치를 검증 없이 본문에 옮기지 말 것.** 원글 정독은 했으나 원글에 인라인으로 걸린 출처 링크를 열지 않았고, **27편 전체가 첫 세션부터 미검증 승계 상태였습니다.** R26 하나만 열어봤는데 핵심 수치 9개가 근거 기사에 없었습니다
@@ -77,5 +77,5 @@ Last session: 2026-08-05 (3세션) | Status: active | Linear: 끌림의 원리 �
 - MCU 전체는 **디즈니 공식 2024-07-27 "300억 달러", 그 시점 33편**을 쓸 것 (원글 "32편 280억"은 출처 없음)
 
 ### 기타
-- 브리프 8종 = `~/vault/raw/research/2026-07-25-*.md`
+- 브리프 8종 = `~/vault/40 References & Ideas/research/2026-07-25-*.md`
 - 콘텐츠 전용 레포 → 문서는 main 직접 커밋. **이번 세션도 레포엔 글 변경 없음**(산출물은 Desktop)
