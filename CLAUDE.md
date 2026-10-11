@@ -26,3 +26,7 @@ Project: **fan-biz-insights-articles** (ID: `e62d3812-abe1-44c0-8b2e-6ab50537c5c
 When creating any ticket for this repo, always pass `project: "fan-biz-insights-articles"`.
 
 ## Wiki type: content
+
+## Vault overview
+
+vault: 25 Content/channels/fan-biz-insights-articles/overview.md
